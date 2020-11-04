@@ -2077,19 +2077,6 @@ section.lazy-placeholder:after {
   margin-left: auto;
   margin-right: auto;
 }
-.cid-s07Qhm26K4 {
-  background: #efefef;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-s07Qhm26K4 .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-s07Qhm26K4 .video-block {
-    width: 100% !important;
-  }
-}
 .cid-s07RvULZlB {
   padding-top: 45px;
   padding-bottom: 45px;
